@@ -192,6 +192,11 @@ const _nav = [
         name: 'Validation',
         to: '/forms/validation',
       },
+      {
+        component: CNavItem,
+        name: 'Contact Us',
+        to: '/forms/contact-us',
+      },
     ],
   },
   {
